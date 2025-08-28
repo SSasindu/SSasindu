@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Sasindu+Shehan!+%F0%9F%91%8B;Full+Stack+Developer;Embedded+Systems+Developer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Passionate Developer | 🔧 Embedded Systems Enthusiast | 🌐 Full Stack Creator</h3>
+<h3 align="center">🚀 Passionate Developer | 🔧 Embedded Systems Enthusiast | 🌐 Full Stack Developer</h3>
 
 ---
 
